@@ -25,3 +25,7 @@ python3 notion-clear-trash.py
 4. Expand Cookies under the Storage section on the sidebar
 5. Click on 'https://www.notion.so' to view all the cookies
 6. Copy the value for the key 'token_v2'
+
+
+### How to Find Your Notion key 'token_v2'
+Go this documentation: https://www.notion.so/Find-Your-Notion-Token-5da17a8df27a4fb290e9e3b5d9ba89c4
