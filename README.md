@@ -17,7 +17,9 @@ pip3 install -r requirements.txt
 python3 notion-clear-trash.py
 ```
 
-### How to Retrieve the Auth Token (in Chrome)
+### How to Retrieve the Auth Token_v2 (in Chrome)
+
+Go this documentation: https://www.notion.so/Find-Your-Notion-Token-5da17a8df27a4fb290e9e3b5d9ba89c4
 
 1. Go to notion.so
 2. Open developer tools (hit F12)
@@ -25,7 +27,3 @@ python3 notion-clear-trash.py
 4. Expand Cookies under the Storage section on the sidebar
 5. Click on 'https://www.notion.so' to view all the cookies
 6. Copy the value for the key 'token_v2'
-
-
-### How to Find Your Notion key 'token_v2'
-Go this documentation: https://www.notion.so/Find-Your-Notion-Token-5da17a8df27a4fb290e9e3b5d9ba89c4
